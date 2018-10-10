@@ -1,7 +1,7 @@
-https://chengww.com/article/Java_compatible_certificate_of_Lets_Encrypt/
-https://chengww.com/article/VCD-Chinese_patent_pain/
-https://chengww.com/article/How_does_the_front_end_display_the_back-end_data/
-https://chengww.com/article/Java_merge_videos_of_bilibili/
-https://chengww.com/article/Persional_Android_fingerprint_useage/
-https://chengww.com/article/Android_studio_push_to_oschina/
-https://chengww.com/article/ShimmerRecyclerView/
+https://chengww.com/article/Java_compatible_certificate_of_Lets_Encrypt.html
+https://chengww.com/article/VCD-Chinese_patent_pain.html
+https://chengww.com/article/How_does_the_front_end_display_the_back-end_data.html
+https://chengww.com/article/Java_merge_videos_of_bilibili.html
+https://chengww.com/article/Persional_Android_fingerprint_useage.html
+https://chengww.com/article/Android_studio_push_to_oschina.html
+https://chengww.com/article/ShimmerRecyclerView.html
