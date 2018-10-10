@@ -1,7 +1,7 @@
-https://chengww.com/Java/Java兼容LetsEncrypt证书/
-https://chengww.com/科技随笔/VCD--国产专利之痛/
-https://chengww.com/给产品经理讲技术/写给产品经理之前端是如何展示后端数据的/
-https://chengww.com/Java/使用JAVA合并哔哩哔哩手机客户端下载的视频/
-https://chengww.com/Android/安卓指纹+密码支付(解锁)仿支付宝Demo/
-https://chengww.com/Android/AndroidStudio上传代码到码云(Oschina)教程/
-https://chengww.com/Android/闪烁加载视图---ShimmerRecyclerView/
+https://chengww.com/article/Java_compatible_certificate_of_Lets_Encrypt/
+https://chengww.com/article/VCD-Chinese_patent_pain/
+https://chengww.com/article/How_does_the_front_end_display_the_back-end_data/
+https://chengww.com/article/Java_merge_videos_of_bilibili/
+https://chengww.com/article/Persional_Android_fingerprint_useage/
+https://chengww.com/article/Android_studio_push_to_oschina/
+https://chengww.com/article/ShimmerRecyclerView/
