@@ -1,3 +1,7 @@
+![](https://js-cdn.pek3b.qingstor.com/pic/Prairie_and_deer.jpg?image&action=resize:m_0,w_1280,h_720)
+
 Personal blog of [chengww](https://chengww.com).
 
 Powered by [Hexo](https://hexo.io) with theme [melody](https://molunerfinn.com/hexo-theme-melody-doc/#/).
+
+Comment is powered by [gitalk](https://github.com/gitalk/gitalk) based on GitHub Issue and Preact.
