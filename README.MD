@@ -1,4 +1,4 @@
-![](https://js-cdn.pek3b.qingstor.com/pic/Prairie_and_deer.jpg?image&action=resize:m_0,w_720,h_480)
+![](https://js-cdn.pek3b.qingstor.com/pic/Prairie_and_deer.jpg?image&action=resize:m_0,w_1280,h_720)
 
 Personal blog of [chengww](https://chengww.com).
 
