@@ -8,11 +8,9 @@
         <category>tools</category>
       </categories>
       <tags>
-        <tag>picgo</tag>
-        <tag>picgo-gui-plugin</tag>
-        <tag>picgo-plugin</tag>
         <tag>picgo-plugin-qingstor-uploader</tag>
         <tag>青云对象存储图床</tag>
+        <tag>TypeScript</tag>
       </tags>
   </entry>
   <entry>
