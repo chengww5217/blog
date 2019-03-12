@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chengww.com/archives/test.html</loc>
+    
+    <lastmod>2019-03-12T11:07:00.645Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.chengww.com/archives/picgo-plugin-uploader-development.html</loc>
     
     <lastmod>2019-03-07T08:10:10.060Z</lastmod>
